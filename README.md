@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pCappadonia
 - 👀 I’m interested in Videogames, Comics, Technology, Machine Learning, Web development
-- 🌱 I’m currently learning python, flutter, C#
+- 🌱 I’m currently learning python, flutter, C#, C++
 - 💞️ I’m looking to collaborate on web app projects, machine learning projects, embedded systems projects
 - 📫 How to reach me paolo.cappadonia@gmail.com
 
