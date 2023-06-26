@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pCappadonia
 - 👀 I’m interested in Videogames, Comics, Technology, Cloud Automation, Machine Learning, Web development
-- 🌱 I’m currently learning python and flutter
-- 💞️ I’m looking to collaborate on web app projects, machine learning projects, embedded systems projects
+- 🌱 I’m currently learning Docker, Kubernetes, Terraform, Python and Flutter
+- 💞️ I’m looking to collaborate on Cloud Automation projects, machine learning projects, embedded systems projects
 - 📫 How to reach me paolo.cappadonia@gmail.com
 
 <!---
